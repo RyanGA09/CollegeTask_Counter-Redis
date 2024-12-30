@@ -12,6 +12,6 @@ December 2023
 
 ## LICENSE
 
-&copy; 2023 Ryan Gading Abdullah. All rights reserved.
+Copyright &copy; 2023 Ryan Gading Abdullah. All rights reserved.
 
 This project is licensed under the MIT License - see the [MIT LICENSE](LICENSE) for details.
